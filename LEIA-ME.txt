@@ -1,0 +1,12 @@
+VINNI VICIOUS - ONE PAGE INTERATIVA
+
+Arquivos da página:
+- index.html: conteúdo e estrutura
+- styles.css: layout, identidade visual e cena 3D
+- script.js: animações e interações
+- assets/drinks/: fotos em WebP usadas na carta
+
+Contato:
+O botão final já abre o WhatsApp com uma mensagem preparada. Para direcionar automaticamente ao atendimento do Vinni, substitua no index.html o endereço https://wa.me/?text=... por https://wa.me/55DDDNUMERO?text=..., usando o número correto com código do país e DDD.
+
+A página utiliza Google Fonts quando há conexão com a internet e mantém fontes de sistema como alternativa.
